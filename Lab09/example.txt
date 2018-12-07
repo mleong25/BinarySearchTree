@@ -1,0 +1,25 @@
+add 57298 Start_This_Goofy_Project 34211
+numberNodes height taskPresent 34211
+add
+	61342 Task_Beta 231
+add 32009 Task_Alpha
+	13
+taskPresent 61342 start 57298 start 32009
+add 59873 Checkup 100
+add 65432 Checkdown 132
+start 61342
+start 57298 start 32965 started 32009
+height numberNodes
+start 32009 start 57298
+add 41376 CheckMe 873
+add 35322 CheckYou 32
+finish 32009
+finish 41376
+add 58112 Extra 32
+add 60332 More 12
+add 62439 Double_up 44
+add 71328 Even_More 42
+finish 61342
+add 62432 OffByOne 43
+finish 61342
+flush
